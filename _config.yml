@@ -3,7 +3,6 @@
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
-remote_theme : Simpleyyt/jekyll-theme-next
 
 # Site
 title: Sunga's Development Blog
