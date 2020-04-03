@@ -1,1 +1,1 @@
-# sunga.github.io
+link [blog](https://id6827.github.io/)
